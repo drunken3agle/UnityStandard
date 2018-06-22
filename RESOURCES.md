@@ -1,0 +1,3 @@
+[Sound]
+gamesounds.xyz
+
