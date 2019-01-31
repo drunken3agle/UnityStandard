@@ -1,5 +1,18 @@
 # UnityStandard
-Set of commonly used Unity assets to start development quickly
+Set of commonly used Unity assets and scripts to start development quickly
+
+## Scripts
+
+### DebugToUI
+
+Add to a UI->Text component to display Debug.Log() messages in-game.
+Configure the Text component (recommended):
+- Alignment: Left + Bottom
+- Horizontal Overflow: Wrap
+- Vertical Overflow: Truncate
+- Color: Something w/ high contrast in your scene
+
+Hint: Set the Fade Time to zero to disable it.
 
 ## Packages
 
